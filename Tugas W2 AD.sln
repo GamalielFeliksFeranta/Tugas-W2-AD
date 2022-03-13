@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas W2 AD", "Tugas W2 AD\Tugas W2 AD.csproj", "{FCD7DD8F-A9EC-46AF-B3B0-DFF9AC32C47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCD7DD8F-A9EC-46AF-B3B0-DFF9AC32C47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD7DD8F-A9EC-46AF-B3B0-DFF9AC32C47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD7DD8F-A9EC-46AF-B3B0-DFF9AC32C47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD7DD8F-A9EC-46AF-B3B0-DFF9AC32C47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F105C1E2-C647-4F57-9B90-C387F4F36A8B}
+	EndGlobalSection
+EndGlobal
