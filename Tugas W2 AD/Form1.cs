@@ -60,13 +60,20 @@ namespace Tugas_W2_AD
             }
             else if (Txt_Inputan.Text.ToUpper() == "BESARKAN")
             {
-                sizeAwal = sizeAwal + 1;
+                sizeAwal = sizeAwal + 5;
                 LblOutput.Font = new Font("serif", sizeAwal);
             }
             else if (Txt_Inputan.Text.ToUpper() == "KECILKAN")
             {
-                sizeAwal = sizeAwal-1;
+                sizeAwal = sizeAwal - 5;
                 LblOutput.Font = new Font ("serif",sizeAwal);
+            }
+            else if (Txt_Inputan.Text.ToUpper() == "RESTART")
+            {
+                sizeAwal = 25;
+                LblOutput.Text = "[EMPTY]";
+                LblOutput.Font = new Font("serif", sizeAwal);
+                LblOutput.ForeColor = Color.Black;
             }
             
         }
