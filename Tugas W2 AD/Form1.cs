@@ -38,7 +38,7 @@ namespace Tugas_W2_AD
             else if (Txt_Inputan.Text.ToUpper() == "SHOWN")
             {
                 LblOutput.Visible = true;
-            }
+            } 
             else if (Txt_Inputan.Text.Substring(0, 6).ToUpper() == "WARNA:")
             {
                 if (Txt_Inputan.Text.Substring(6).ToUpper() == "BIRU")
